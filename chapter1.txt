@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the first chapter of my autobiography. This is further developed.
+=======
+This is the first chapter of my autobiography, nay, self memoir. I changed the theme of my book for chapter 1.
+>>>>>>> theme-change

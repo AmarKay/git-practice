@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the second chapter of my auto-biography. This is also further developed.
+=======
+This is the second chapter of my auto-biography, nay, I forgot, my self memoir. I changed the theme for chapter 2 of my book.
+>>>>>>> theme-change
